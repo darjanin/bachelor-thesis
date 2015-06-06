@@ -1,0 +1,34 @@
+\select@language {english}
+\contentsline {chapter}{\numberline {1}First steps to the Sass}{1}{chapter.1}
+\contentsline {section}{\numberline {1.1}History}{1}{section.1.1}
+\contentsline {section}{\numberline {1.2}Installation}{1}{section.1.2}
+\contentsline {section}{\numberline {1.3}Hello World example}{2}{section.1.3}
+\contentsline {section}{\numberline {1.4}Compiling Sass}{3}{section.1.4}
+\contentsline {chapter}{\numberline {2}Sass Syntax}{5}{chapter.2}
+\contentsline {chapter}{\numberline {3}Variables}{7}{chapter.3}
+\contentsline {chapter}{\numberline {4}Nesting}{9}{chapter.4}
+\contentsline {chapter}{\numberline {5}SassScript}{12}{chapter.5}
+\contentsline {section}{\numberline {5.1}Data types}{12}{section.5.1}
+\contentsline {section}{\numberline {5.2}Functions}{13}{section.5.2}
+\contentsline {chapter}{\numberline {6}@-rules and directives}{15}{chapter.6}
+\contentsline {section}{\numberline {6.1}@import}{15}{section.6.1}
+\contentsline {section}{\numberline {6.2}@media}{17}{section.6.2}
+\contentsline {section}{\numberline {6.3}@extend}{19}{section.6.3}
+\contentsline {chapter}{\numberline {7}Mixins}{23}{chapter.7}
+\contentsline {chapter}{\numberline {8}Control Directives}{27}{chapter.8}
+\contentsline {section}{\numberline {8.1}@if}{27}{section.8.1}
+\contentsline {section}{\numberline {8.2}@for}{28}{section.8.2}
+\contentsline {section}{\numberline {8.3}@each}{29}{section.8.3}
+\contentsline {section}{\numberline {8.4}@while}{29}{section.8.4}
+\contentsline {chapter}{\numberline {9}Compass}{31}{chapter.9}
+\contentsline {section}{\numberline {9.1}Installation}{31}{section.9.1}
+\contentsline {chapter}{\numberline {10}Working with projects}{33}{chapter.10}
+\contentsline {section}{\numberline {10.1}create}{33}{section.10.1}
+\contentsline {section}{\numberline {10.2}init}{35}{section.10.2}
+\contentsline {section}{\numberline {10.3}compile}{35}{section.10.3}
+\contentsline {section}{\numberline {10.4}watch}{36}{section.10.4}
+\contentsline {chapter}{\numberline {11}Compass core}{37}{chapter.11}
+\contentsline {section}{\numberline {11.1}Reset}{38}{section.11.1}
+\contentsline {section}{\numberline {11.2}CSS3}{38}{section.11.2}
+\contentsline {section}{\numberline {11.3}Helpers}{40}{section.11.3}
+\contentsline {section}{\numberline {11.4}Utilities}{41}{section.11.4}

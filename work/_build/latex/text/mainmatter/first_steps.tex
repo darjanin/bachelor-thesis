@@ -1,0 +1,64 @@
+\selectlanguage{english}
+\chapter{First steps}
+\paragraph{}
+For editing SASS files you need just your favorite text editor in which you write CSS. The files name should end with extension .sass or .scss. The difference between this names would be explained later, when we move to the syntax.
+
+Before I can show you the syntax of SASS and how to use it, you need to install SASS interpreter. It is written in Ruby so this is the first requirement. And the second requirement is to start your terminal application (or command line in Windows).
+
+\section{Installation}
+\subsection{Windows}
+\paragraph{}
+For this platform it would be the most difficult task. At first if you don't have Ruby installed you must to download it from
+\url{http://rubyinstaller.org/downloads/}. When you are done and Ruby is prepared on your computer, go to Start, Accessories and start Command prompt. Or I think faster way (and working in Windows 8 too) is to press \texttt{Win+R} and then run \texttt{cmd}. 
+When the command line shows enter
+\begin{verbatim}
+gem install sass
+\end{verbatim}
+\paragraph{}
+If you want some fine text editor on this platform which has more features than Notepad and it's free than I would recommend Notepad++.
+
+\subsection{Linux}
+\paragraph{}
+Ruby is not installed in common distributions, but you can install it with your package manager. In Debian systems (Ubuntu) use
+\begin{verbatim}
+sudo apt-get install ruby1.9.3
+\end{verbatim}
+When the installation is done just run 
+\begin{verbatim}
+gem install sass
+\end{verbatim}
+Is there possibility that you would need  to put \texttt{sudo} in front of gem. Then it would ask for your password.
+
+\paragraph{}
+There are many text editors for Linux distribution. So I give few choices. Easy to use and probably the simplest is the Gedit which comes with any distribution with Gnome. For terminal fans is there always Vim.
+
+\subsection{Mac OS X}
+\paragraph{}
+On this platform it is the easiest, because Ruby comes installed. Open Terminal.app and run the command:
+\begin{verbatim}
+gem install sass
+\end{verbatim}
+\paragraph{}
+The default text editor which comes with this system isn't good choice for developers because it has problems with plain text formats. But there is always the VIM.
+
+\section{Hello World}
+\paragraph{}
+When our working environment is prepared, it is time to show you how to use it. It is just simple example to show you what sass does.
+\paragraph{}
+Create folder with name \texttt{hello\_world} so you can find it later. Create file \texttt{hello.scss} in the folder \texttt{hello\_world}.
+\begin{verbatim}
+$red: #dd1213;
+.hello{
+    color: $red;
+}
+\end{verbatim}
+
+Then set in terminal the working directory to \texttt{hello\_world} and run command \texttt{sass hello.scss}. The output should be
+
+\begin{verbatim}
+.hello{
+    color: #dd1213;
+}
+\end{verbatim}
+\paragraph{}
+How can you see the sass converted the \texttt{\$red} to \texttt{\#dd1213} and output is just CSS code. If everything worked for you than I can move on to explaining the syntax of SASS.

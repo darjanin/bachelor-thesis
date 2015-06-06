@@ -1,0 +1,40 @@
+%OBAL
+\include{frontmatter/cover}
+
+% %TITULNY LIST
+ \include{frontmatter/title}
+
+ \shorthandoff{-} %docasne deaktivuje znak '-' v balicku babel
+% %ZADANIE EN
+ \includepdf[pages=-]{frontmatter/assignment.pdf}
+% %ZADANIE SK
+ \includepdf[pages=-]{frontmatter/zadanie.pdf}
+ \shorthandon{-}
+
+% %PODAKOVANIE
+ \input{frontmatter/acknowledgement}
+
+% %ABSTRAKT EN
+ \input{frontmatter/abstract}
+
+% %ABSTRAKT SK
+ \selectlanguage{slovak}
+ \input{frontmatter/abstrakt}
+
+% %PREDHOVOR
+% %\selectlanguage{english}
+% %\input{frontmatter/preamble}
+
+% %OBSAH
+ \selectlanguage{english}
+ \tableofcontents
+
+% %ZOZNAM ILUSTRACII
+% \selectlanguage{english}
+% \listoffigures
+
+% %ZOZNAM TABULIEK
+% \selectlanguage{english}
+% \listoftables
+% \thispagestyle{empty}
+% \setcounter{page}{0}

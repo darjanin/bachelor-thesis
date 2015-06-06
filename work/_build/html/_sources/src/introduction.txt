@@ -1,0 +1,17 @@
+.. raw:: latex
+
+  \chapter*{Introduction}
+	\addcontentsline{toc}{chapter}{Introduction}  
+	\paragraph{}
+	The look of the Internet had changed dramatically through last decades of existence. What was at begin just simple text file is today much more. The content is not the only important thing. The way how we are presented on the Internet has come to the front. For purpose of easier styling our web documents was released Cascading Style Sheets (CSS) style sheet language. In last years it was improved a lot and the number of features which was added to it is in hundreds. But there are always things that developers wants today, but it takes some time for approve appending new ones. And there is created space for another developers that come with their own solutions. One of them is CSS preprocessors.
+
+	\paragraph{}
+	The goal of the preprocessors is to add new features to existing styling language without loosing support of Internet browsers. The solution for that is to write converters that translate code written with syntax of our chosen preprocessor and translate it to the CSS. The output than could be optimized for example to save the time of page loading. There are more ways how this converting can be achieved. LESS is preferring javascript file which translates LESS on the client side. In other view, \href{http://sass-lang.com}{SASS} \cite{homepage:sass}, about which is this work, converts sass or scss syntax on the developer computer, or there exists frameworks like Ruby on Rails which has SASS converter integrated.
+
+.. Introduction
+.. ==============
+
+.. Here would come few words why I'm writing what I'm writing.
+
+.. Internet is full of information. But you need a time to find a good sources of them and read them all to find the right thing. This document approach is to store the most important knowledge about the **SASS** on one place. There's no way to have here all information while it is still developing and with every new version is there chance for dramatic changes. But I'd like to present you the current state of this extension for CSS3. And I hope that after reading next lines would you agree with me that *Sass makes CSS fun again.* (borrowed from `Sass language homepage <http://sass-lang.com/>`_).
+

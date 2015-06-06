@@ -1,0 +1,38 @@
+\BOOKMARK [0][-]{chapter*.5}{Introduction}{}
+\BOOKMARK [0][-]{chapter.1}{Sass}{}
+\BOOKMARK [1][-]{section.1.1}{First steps to the Sass}{chapter.1}
+\BOOKMARK [2][-]{subsection.1.1.1}{History}{section.1.1}
+\BOOKMARK [2][-]{subsection.1.1.2}{Installation}{section.1.1}
+\BOOKMARK [3][-]{subsubsection*.8}{Windows}{subsection.1.1.2}
+\BOOKMARK [3][-]{subsubsection*.9}{Linux}{subsection.1.1.2}
+\BOOKMARK [3][-]{subsubsection*.10}{MacOS X}{subsection.1.1.2}
+\BOOKMARK [3][-]{subsubsection*.11}{Last step}{subsection.1.1.2}
+\BOOKMARK [2][-]{subsection.1.1.3}{Hello World example}{section.1.1}
+\BOOKMARK [1][-]{section.1.2}{Sass Syntax}{chapter.1}
+\BOOKMARK [2][-]{subsection.1.2.1}{Variables}{section.1.2}
+\BOOKMARK [2][-]{subsection.1.2.2}{Nesting}{section.1.2}
+\BOOKMARK [2][-]{subsection.1.2.3}{SassScript}{section.1.2}
+\BOOKMARK [2][-]{subsection.1.2.4}{@-rules and directives}{section.1.2}
+\BOOKMARK [3][-]{subsubsection*.12}{@import}{subsection.1.2.4}
+\BOOKMARK [3][-]{subsubsection*.13}{@media}{subsection.1.2.4}
+\BOOKMARK [3][-]{subsubsection*.14}{@extend}{subsection.1.2.4}
+\BOOKMARK [2][-]{subsection.1.2.5}{Mixins}{section.1.2}
+\BOOKMARK [2][-]{subsection.1.2.6}{Control Directives}{section.1.2}
+\BOOKMARK [0][-]{chapter.2}{Compass for adventurer}{}
+\BOOKMARK [1][-]{section.2.1}{Installation}{chapter.2}
+\BOOKMARK [1][-]{section.2.2}{Options}{chapter.2}
+\BOOKMARK [0][-]{chapter.3}{CSS3 and many browsers? With Compass easy}{}
+\BOOKMARK [0][-]{chapter.4}{More Compass features}{}
+\BOOKMARK [0][-]{chapter.5}{World with Internet Explorers}{}
+\BOOKMARK [0][-]{chapter.6}{Tips for writing large projects using SCSS}{}
+\BOOKMARK [1][-]{section.6.1}{Writing style}{chapter.6}
+\BOOKMARK [1][-]{section.6.2}{Naming conventions}{chapter.6}
+\BOOKMARK [1][-]{section.6.3}{Splitting into files}{chapter.6}
+\BOOKMARK [0][-]{chapter.7}{Layouts code examples using Sass features}{}
+\BOOKMARK [0][-]{chapter.8}{Menu snippets}{}
+\BOOKMARK [0][-]{chapter.9}{Form elements}{}
+\BOOKMARK [1][-]{section.9.1}{Inputs}{chapter.9}
+\BOOKMARK [1][-]{section.9.2}{Buttons}{chapter.9}
+\BOOKMARK [1][-]{section.9.3}{Dropdowns}{chapter.9}
+\BOOKMARK [0][-]{chapter.10}{Conclusion}{}
+\BOOKMARK [0][-]{chapter.11}{Indices and tables}{}

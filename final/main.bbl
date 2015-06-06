@@ -1,0 +1,18 @@
+\begin{thebibliography}{1}
+
+\bibitem{blog:sass}
+{Blog about Sass}.
+\newblock {\url{http://thesassway.com/}}.
+\newblock [Online; accessed 26-May-2013].
+
+\bibitem{homepage:compass}
+{Compass homepage}.
+\newblock {\url{http://compass-style.org/}}.
+\newblock [Online; accessed 26-May-2013].
+
+\bibitem{homepage:sass}
+{Sass homepage}.
+\newblock {\url{http://sass-lang.com}}.
+\newblock [Online; accessed 26-May-2013].
+
+\end{thebibliography}

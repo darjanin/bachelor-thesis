@@ -1,0 +1,35 @@
+\select@language {slovak}
+\select@language {english}
+\select@language {slovak}
+\select@language {english}
+\select@language {english}
+\select@language {english}
+\contentsline {chapter}{Introduction}{1}{chapter*.7}
+\contentsline {paragraph}{}{1}{section*.8}
+\contentsline {paragraph}{}{1}{section*.9}
+\select@language {english}
+\contentsline {chapter}{\numberline {1}First steps}{2}{chapter.1}
+\contentsline {paragraph}{}{2}{section*.10}
+\contentsline {section}{\numberline {1.1}Installation}{2}{section.1.1}
+\contentsline {subsection}{\numberline {1.1.1}Windows}{2}{subsection.1.1.1}
+\contentsline {paragraph}{}{2}{section*.11}
+\contentsline {paragraph}{}{2}{section*.12}
+\contentsline {subsection}{\numberline {1.1.2}Linux}{2}{subsection.1.1.2}
+\contentsline {paragraph}{}{2}{section*.13}
+\contentsline {paragraph}{}{3}{section*.14}
+\contentsline {subsection}{\numberline {1.1.3}Mac OS X}{3}{subsection.1.1.3}
+\contentsline {paragraph}{}{3}{section*.15}
+\contentsline {paragraph}{}{3}{section*.16}
+\contentsline {section}{\numberline {1.2}Hello World}{3}{section.1.2}
+\contentsline {paragraph}{}{3}{section*.17}
+\contentsline {paragraph}{}{3}{section*.18}
+\contentsline {paragraph}{}{3}{section*.19}
+\select@language {english}
+\contentsline {chapter}{\numberline {2}SASS syntax}{4}{chapter.2}
+\contentsline {paragraph}{}{4}{section*.20}
+\contentsline {section}{\numberline {2.1}Variables}{4}{section.2.1}
+\contentsline {section}{\numberline {2.2}Mixins}{4}{section.2.2}
+\contentsline {section}{\numberline {2.3}Nesting}{4}{section.2.3}
+\contentsline {section}{\numberline {2.4}Inheritance}{5}{section.2.4}
+\contentsline {chapter}{Conclusion}{6}{chapter*.21}
+\contentsline {paragraph}{}{6}{section*.22}

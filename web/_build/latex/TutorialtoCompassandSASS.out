@@ -1,0 +1,33 @@
+\BOOKMARK [0][-]{chapter.1}{First steps to the Sass}{}
+\BOOKMARK [1][-]{section.1.1}{History}{chapter.1}
+\BOOKMARK [1][-]{section.1.2}{Installation}{chapter.1}
+\BOOKMARK [1][-]{section.1.3}{Hello World example}{chapter.1}
+\BOOKMARK [1][-]{section.1.4}{Compiling Sass}{chapter.1}
+\BOOKMARK [0][-]{chapter.2}{Sass Syntax}{}
+\BOOKMARK [0][-]{chapter.3}{Variables}{}
+\BOOKMARK [0][-]{chapter.4}{Nesting}{}
+\BOOKMARK [0][-]{chapter.5}{SassScript}{}
+\BOOKMARK [1][-]{section.5.1}{Data types}{chapter.5}
+\BOOKMARK [1][-]{section.5.2}{Functions}{chapter.5}
+\BOOKMARK [0][-]{chapter.6}{@-rules and directives}{}
+\BOOKMARK [1][-]{section.6.1}{@import}{chapter.6}
+\BOOKMARK [1][-]{section.6.2}{@media}{chapter.6}
+\BOOKMARK [1][-]{section.6.3}{@extend}{chapter.6}
+\BOOKMARK [0][-]{chapter.7}{Mixins}{}
+\BOOKMARK [0][-]{chapter.8}{Control Directives}{}
+\BOOKMARK [1][-]{section.8.1}{@if}{chapter.8}
+\BOOKMARK [1][-]{section.8.2}{@for}{chapter.8}
+\BOOKMARK [1][-]{section.8.3}{@each}{chapter.8}
+\BOOKMARK [1][-]{section.8.4}{@while}{chapter.8}
+\BOOKMARK [0][-]{chapter.9}{Compass}{}
+\BOOKMARK [1][-]{section.9.1}{Installation}{chapter.9}
+\BOOKMARK [0][-]{chapter.10}{Working with projects}{}
+\BOOKMARK [1][-]{section.10.1}{create}{chapter.10}
+\BOOKMARK [1][-]{section.10.2}{init}{chapter.10}
+\BOOKMARK [1][-]{section.10.3}{compile}{chapter.10}
+\BOOKMARK [1][-]{section.10.4}{watch}{chapter.10}
+\BOOKMARK [0][-]{chapter.11}{Compass core}{}
+\BOOKMARK [1][-]{section.11.1}{Reset}{chapter.11}
+\BOOKMARK [1][-]{section.11.2}{CSS3}{chapter.11}
+\BOOKMARK [1][-]{section.11.3}{Helpers}{chapter.11}
+\BOOKMARK [1][-]{section.11.4}{Utilities}{chapter.11}

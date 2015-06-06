@@ -1,0 +1,5 @@
+@each $shape in circle, triangle, square {
+  .#{$shape}-icon {
+    background-image: url('/images/#{$shape}.png');
+   }
+}   
